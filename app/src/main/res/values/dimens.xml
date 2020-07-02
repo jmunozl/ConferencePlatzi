@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="altoLogo">45dp</dimen>
+    <dimen name="toolbarAlto">30dp</dimen>
+    <dimen name="cardRadius">4dp</dimen>
+    <dimen name="cardElevation">4dp</dimen>
+    <dimen name="altoImageViewHome">150dp</dimen>
+    <dimen name="view">2dp</dimen>
+    <dimen name="textTitulo">20sp</dimen>
+    <dimen name="marginHomeSubtitulo">10dp</dimen>
+    <dimen name="marginSheduleItem">10dp</dimen>
+    <dimen name="viewTop">10dp</dimen>
+    <dimen name="textSubtitulo">15sp</dimen>
+    <dimen name="cardMargin">15dp</dimen>
+    <dimen name="itemSheduleTitulo">30sp</dimen>
+    <dimen name="itemSheduleSubTitulo">20sp</dimen>
+    <dimen name="itemSheduleSpeakerTitulo">15sp</dimen>
+    <dimen name="height_schedule_detail">200dp</dimen>
+    <dimen name="titulo_conference">30sp</dimen>
+    <dimen name="card_margin">15dp</dimen>
+</resources>

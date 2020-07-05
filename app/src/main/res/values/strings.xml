@@ -10,6 +10,6 @@
     <string name="format_text_hour">00:00</string>
     <string name="pm">PM</string>
     <string name="nombre_conferencia">Nombre conferencia</string>
-    <string name="speaker_name">Speaker Name</string>
+    <string name="speaker_name">Nombre expositor</string>
     <string name="tag">Tag</string>
 </resources>
